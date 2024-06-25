@@ -10,7 +10,26 @@ This Flutter application demonstrates the implementation of Picture-in-Picture (
 - **Dynamic Content Switching**: Display additional content while the main screen is in floating mode.
 - **Responsive Design**: Adjusts layout to avoid system UI intrusions like notches and status bars.
 
-<!--- ## Screenshots --->
+## Screenshots 
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="public/main.jpg" alt="HomePage" height="325">
+        <br>
+        <b>Home Page</b>
+      </td>
+      <td align="center">
+        <img src="public/floating.jpg" alt="Float View" height="325">
+        <br>
+        <b>Float View</b>
+      </td>
+  
+  </table>
+</div>
+
+
 
 
 
